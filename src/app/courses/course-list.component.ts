@@ -23,7 +23,7 @@ export class CourseListComponent implements OnInit{
             {
                 id: 1,
                 name: 'Angular: HTTP',
-                imageUrl: '',
+                imageUrl: '/assets/images/http.png',
                 price: 45.99,
                 code: 'LKL-1094',
                 duration: 80,
